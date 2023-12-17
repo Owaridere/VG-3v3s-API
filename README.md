@@ -1,4 +1,4 @@
-# Vainglory Bot Backends
+# Vainglory Bot Backend
 
 ## Development
 To start the development server run:
